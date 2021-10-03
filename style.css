@@ -45,3 +45,8 @@ h1{
   cursor: pointer;
   border-radius: 5px;
 }
+@media all and (max-width:30em){
+    .donate-img .btn{
+    display:block;
+    margin:0.4em auto;}
+}
